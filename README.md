@@ -33,6 +33,7 @@
 | [0058-length-of-last-word](https://github.com/stackboyy/test1/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/stackboyy/test1/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/stackboyy/test1/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/stackboyy/test1/tree/master/0434-number-of-segments-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/stackboyy/test1/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
